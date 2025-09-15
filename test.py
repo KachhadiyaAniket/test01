@@ -36,6 +36,5 @@ def main():
     try:
         val = int("abc")
     except:
-        print("Something went wrong"
-
+        print("Something went wrong")
 main()
