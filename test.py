@@ -23,7 +23,7 @@ def do_something():
     return d
 
 def calc_area(r):
-    return 3.14 * r * h
+    return 3.14 * r * h * h
 
 def main():
     result = do_something()
