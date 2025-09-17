@@ -29,7 +29,7 @@ def main():
     result = do_something()
     print("Done processing")
     for i in result:
-        if i > 100:
+        if i > 100
             print("Large value:", i)
         else:
             print("Small value:", i)
